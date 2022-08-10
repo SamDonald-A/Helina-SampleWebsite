@@ -260,13 +260,13 @@ a {
     text-transform: uppercase;
     transition: opacity 0.5s ease-in-out;
 }
-.text-hover-herotext:hover {
+/* .text-hover-herotext:hover {
     opacity: 1;
     text-shadow: 0 0 10px;
     background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff0000);
     -webkit-background-clip: text;
     -webkit-text-stroke: 5px transparent;
-}
+} */
 
 .support-title {
     color: rgb(255, 255, 255);
@@ -290,7 +290,7 @@ a {
     box-shadow: 0 0 5px;
     width: 100%;
     height: 5px;
-    background: linear-gradient(-45deg, #000000, #9a9a9a, #9a9a9a, #000000);
+    /* background: linear-gradient(-45deg, #000000, #9a9a9a, #9a9a9a, #000000); */
 }
 
 .text-portfolio {
@@ -300,10 +300,10 @@ a {
     height: 100px;
     font-size: 120px;
     text-align: center;
-    text-shadow: 0 0 15px;
+    /* text-shadow: 0 0 15px;
     background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff00bb, #5eff00, #ff0000);
     -webkit-background-clip: text;
-    -webkit-text-stroke: 3px transparent;
+    -webkit-text-stroke: 3px transparent; */
 }
 
 .parlex-img1 {
@@ -323,20 +323,20 @@ a {
 
 .text-parlex {
     padding-top: 150px;
-    text-shadow: 0 0 25px;
+    /* text-shadow: 0 0 25px;
     background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff00bb, #5eff00, #ff0000);
     -webkit-background-clip: text;
-    -webkit-text-stroke: 5px transparent;
+    -webkit-text-stroke: 5px transparent; */
     height: 500px;
     width: 100%;
 }
 
 .text-parlex1 {
     padding-top: 350px;
-    text-shadow: 0 0 25px;
+    /* text-shadow: 0 0 25px;
     background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff00bb, #5eff00, #ff0000);
     -webkit-background-clip: text;
-    -webkit-text-stroke: 5px transparent;
+    -webkit-text-stroke: 5px transparent; */
     font-size: 50px;
 }
 
@@ -451,12 +451,12 @@ a {
 
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    /* background:
         linear-gradient(to right, white, white),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
-    transition: top, left, bottom, 100ms, ease-in-out;
+    transition: top, left, bottom, 100ms, ease-in-out; */
     cursor: pointer;
     /* background-color: rgba(91, 101, 111, 1);
     border-radius: 5px;
@@ -471,11 +471,12 @@ a {
     transition: top, left, bottom, 100ms, ease-in-out;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    background-color: #000000;
+    /* background:
         linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0)),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
-    background-origin: padding-box, border-box;
+    background-origin: padding-box, border-box; */
 }
 
 .port-grid {
@@ -583,10 +584,10 @@ a {
     margin-bottom: 10px;
     text-align: center;
     color: white;
-    text-shadow: 0 0 25px;
-    background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff00bb, #5eff00, #ff0000);
+    /* text-shadow: 0 0 25px; */
+    /* background: linear-gradient(-45deg, #eeaa52, #e600ff, #0033ff, #ff00bb, #5eff00, #ff0000);
     -webkit-background-clip: text;
-    -webkit-text-stroke: 5px transparent;
+    -webkit-text-stroke: 5px transparent; */
     font-size: 50px;
 }
 
@@ -612,12 +613,12 @@ a {
     height: 45px;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    /* background:
         linear-gradient(to right, white, white),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
-    transition: top, left, bottom, 100ms, ease-in-out;
+    transition: top, left, bottom, 100ms, ease-in-out; */
     cursor: pointer;
     /* background-color: rgba(91, 101, 111, 1);
     border-radius: 5px;
@@ -632,11 +633,12 @@ a {
     transition: top, left, bottom, 100ms, ease-in-out;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    background-color: #000000;
+    /* background:
         linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0)),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
-    background-origin: padding-box, border-box;
+    background-origin: padding-box, border-box; */
 }
 
 .Portrait-content {
@@ -692,14 +694,14 @@ a {
     width: 130px;
     height: 45px;
 
-    border: 3px solid transparent;
+    /* border: 3px solid transparent; */
     border-radius: 10px;
-    background:
+    /* background:
         linear-gradient(to right, white, white),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
-    transition: top, left, bottom, 100ms, ease-in-out;
+    transition: top, left, bottom, 100ms, ease-in-out; */
     cursor: pointer;
     /* background-color: rgba(91, 101, 111, 1);
     border-radius: 5px;
@@ -714,11 +716,11 @@ a {
     transition: top, left, bottom, 100ms, ease-in-out;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    /* background:
         linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0)),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
-    background-origin: padding-box, border-box;
+    background-origin: padding-box, border-box; */
 }
 
 
@@ -773,12 +775,12 @@ a {
     height: 45px;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    /* background:
         linear-gradient(to right, white, white),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
     background-origin: padding-box, border-box;
-    transition: top, left, bottom, 100ms, ease-in-out;
+    transition: top, left, bottom, 100ms, ease-in-out; */
     cursor: pointer;
     /* background-color: rgba(91, 101, 111, 1);
     border-radius: 5px;
@@ -793,11 +795,12 @@ a {
     transition: top, left, bottom, 100ms, ease-in-out;
     border: 3px solid transparent;
     border-radius: 10px;
-    background:
+    background-color: #000000;
+    /* background:
         linear-gradient(to right, rgb(0, 0, 0), rgb(0, 0, 0)),
         linear-gradient(to right, rgb(255, 106, 106), rgb(87, 87, 255));
     background-clip: padding-box, border-box;
-    background-origin: padding-box, border-box;
+    background-origin: padding-box, border-box; */
 }
 
 .contact-container{
